@@ -7,7 +7,7 @@
 		"ecommerce",
 		"cart"
 	],
-	"website": "https://github.com/absalomedia/prestashop-12factor",
+	"website": "https://github.com/mscharm/prestashop-12factor",
 	"repository": "https://github.com/mscharm/prestashop-12factor",
 	"logo": "https://icepay.com/wp-content/uploads/Vertical-Logo-2015.png",
 	"success_url": "/",
@@ -23,6 +23,6 @@
 		"jawsdb",
 		"bucketeer",
 		"sendgrid"
-	],
-	"image": "heroku/php"
+	]
+	
 }
