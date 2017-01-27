@@ -8,7 +8,7 @@
 		"cart"
 	],
 	"website": "https://github.com/absalomedia/prestashop-12factor",
-	"repository": "https://github.com//absalomedia/prestashop-12factor",
+	"repository": "https://github.com/mscharm/prestashop-12factor",
 	"logo": "https://icepay.com/wp-content/uploads/Vertical-Logo-2015.png",
 	"success_url": "/",
 	"scripts": {
